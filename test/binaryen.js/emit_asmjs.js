@@ -8,4 +8,4 @@ module.addExport("main", "main");
 
 module.validate(); // should validate before calling emitAsmjs
 
-console.log(module.emitAsmjs());
+//console.log(module.emitAsmjs());
